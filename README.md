@@ -1,5 +1,11 @@
 # HTTP Server on Pure Node.js
 
+## Запуск серверу
+![server-video](assets/images/server-video.gif)
+
+## Тести
+![server-video](assets/images/test-video.gif)
+
 ## Опис
 
 Базовий HTTP сервер, реалізований з використанням вбудованих модулів
